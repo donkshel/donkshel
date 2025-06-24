@@ -1,12 +1,45 @@
-- 👋 Hi, I’m Sheldon Vwinah Kenyani.
-- 👀 I’m interested in data analysis using pandas and machine learning
-- 🌱 I’m currently learning BSc Data Science.
-- 💞️ I’m looking to collaborate on Data science projects.
-- 📫 Reach me via email: sheldonkenyani@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
+![](https://github.com/donkshel/donkshel/blob/main/github-header-image.png)
+# Sheldon Vwinah
+### | Data Science Enthusiast | Data Analysis
+
+Welcome to my GitHub profile! I'm Sheldon Vwinah, a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donkshel&theme=dark)](https://github.com/donkshel)
+
+## Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=donkshel&theme=dark&hide_border=true&repo=Data-Science-Projects)](https://github.com/donkshel/Data-Science-Projects) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=donkshel&theme=dark&hide_border=true&repo=Credit_card_fraud_detection_model
+)](https://github.com/donkshel/Credit_card_fraud_detection_model
+)
+
+## IDE
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/donkshel)
+
+## Skills
+- ### Languages
+  [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/donkshel) 
+- ### Libraries
+  [![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=whit) ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![](	https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white) ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/donkshel)
+- ### Databases
+  [![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](https://github.com/SUKHMAN-SINGH-1612)
+- ### Frameworks
+     [![](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white) ![](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/donkshel)
+
+## Courses
+[![Static Badge](https://img.shields.io/badge/BSC%20Data%20Science-Bachelors-%20?style=flat&logo=coursera&color=blue&link=https%3A%2F%2Fwww.coursera.org%2Faccount%2Faccomplishments%2Fspecialization%2Fcertificate%2F7BVVEK72RG7K)](https://www.coursera.org/account/accomplishments/specialization/certificate/7BVVEK72RG7K) 
+
+
+## GitHub Analytics
+[<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=donkshel&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donkshel&layout=compact&theme=dark&hide_border=true"/> ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donkshel&show_icons=true&theme=dark&utcOffset=8)](https://github.com/donkshel)
+
+## Portfolio Website
+(COMING SOON)
+
+## Contact
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheldonkenyani@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheldonkenyani) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/donshel_02/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_)
+
+![Snake animation](https://github.com/SUKHMAN-SINGH-1612/SUKHMAN-SINGH-1612/blob/main/assets/github-contribution-grid-snake.svg)
 <!---
-donkshel/donkshel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SUKHMAN-SINGH-1612/SUKHMAN-SINGH-1612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
