@@ -1,5 +1,5 @@
 
-![](https://github.com/donkshel/donkshel/blob/main/don-header-image.png)
+![](https://github.com/donkshel/donkshel/blob/main/donk-header-image.png)
 # Sheldon Vwinah
 ### | Data Science Enthusiast | Data Analysis
 
