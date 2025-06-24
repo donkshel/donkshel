@@ -1,6 +1,6 @@
 
-![](https://github.com/donkshel/donkshel/blob/main/github-header-image.png)
-# Sheldon Vwinah
+![](https://github.com/donkshel/donkshel/blob/main/don-header-image.png)
+# Sheldon Vwinah Kenyani
 ### | Data Science Enthusiast | Data Analysis
 
 Welcome to my GitHub profile! I'm Sheldon Vwinah, a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
