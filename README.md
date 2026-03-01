@@ -8,14 +8,15 @@ Welcome to my GitHub profile! I'm Sheldon Vwinah, a Data Science enthusiast with
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donkshel&theme=dark)](https://github.com/donkshel)
 
+
 ## Top Repositories
-[![](https://github-readme-stats.vercel.app/api/pin/?username=donkshel&theme=dark&hide_border=true&repo=Fake_Real_News_Detection_Using_LSTM)](https://github.com/donkshel/Fake_Real_News_Detection_Using_LSTM) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=donkshel&theme=dark&hide_border=true&repo=Credit_card_fraud_detection_model
-)](https://github.com/donkshel/Credit_card_fraud_detection_model
-)
+[![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=donkshel&repo=Fake_Real_News_Detection_Using_LSTM&theme=dark&hide_border=true)](https://github.com/donkshel/Fake_Real_News_Detection_Using_LSTM)
+
+[![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=donkshel&repo=Credit_card_fraud_detection_model&theme=dark&hide_border=true)](https://github.com/donkshel/Credit_card_fraud_detection_model)
 
 ## IDE
 - ### IDE Software
-   ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/donkshel)
+   [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/donkshel)
 
 ## Skills
 - ### Languages  
