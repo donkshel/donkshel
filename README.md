@@ -10,9 +10,28 @@ Welcome to my GitHub profile! I'm Sheldon Vwinah, a Data Science enthusiast with
 
 
 ## Top Repositories
-[![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=donkshel&repo=Fake_Real_News_Detection_Using_LSTM&theme=dark&hide_border=true)](https://github.com/donkshel/Fake_Real_News_Detection_Using_LSTM)
 
-[![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=donkshel&repo=Credit_card_fraud_detection_model&theme=dark&hide_border=true)](https://github.com/donkshel/Credit_card_fraud_detection_model)
+<p>
+  <a href="https://github.com/donkshel/Fake_Real_News_Detection_Using_LSTM">
+    <img 
+      width="420"
+      src="https://github-readme-stats-donkshel.vercel.app/api/pin/?username=donkshel&repo=Fake_Real_News_Detection_Using_LSTM&theme=dark&hide_border=true"
+      style="transition: transform 0.2s ease;"
+      onmouseover="this.style.transform='scale(1.03)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/donkshel/Credit_card_fraud_detection_model">
+    <img 
+      width="420"
+      src="https://github-readme-stats-donkshel.vercel.app/api/pin/?username=donkshel&repo=Credit_card_fraud_detection_model&theme=dark&hide_border=true"
+      style="transition: transform 0.2s ease;"
+      onmouseover="this.style.transform='scale(1.03)'"
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </a>
+</p>
 
 ## IDE
 - ### IDE Software
