@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Sheldon Vwinah, a Data Science enthusiast with
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donkshel&theme=dark)](https://github.com/donkshel)
 
 ## Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=donkshel&theme=dark&hide_border=true&repo=Fake_Real_News_Detection_Using_LSTM)](https://github.com/donkshel/Fake_Real_News_Detection_Using_LSTM) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=donkshel&theme=dark&hide_border=true&repo=Credit_card_fraud_detection_model
+[![](https://github-readme-stats.vercel.app/api/pin/?username=donkshel&theme=dark&hide_border=true&repo=Fake_Real_News_Detection_Using_LSTM)](https://github.com/donkshel/Fake_Real_News_Detection_Using_LSTM) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=donkshel&theme=dark&hide_border=true&repo=Credit_card_fraud_detection_model
 )](https://github.com/donkshel/Credit_card_fraud_detection_model
 )
 
