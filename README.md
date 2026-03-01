@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm Sheldon Vwinah, a Data Science enthusiast with
       onmouseout="this.style.transform='scale(1)'"
     />
   </a>
-  &nbsp;
+ 
   <a href="https://github.com/donkshel/Credit_card_fraud_detection_model">
     <img 
       width="420"
