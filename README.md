@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Sheldon Vwinah, a Data Science enthusiast with
   <a href="https://github.com/donkshel/Fake_Real_News_Detection_Using_LSTM">
     <img 
       width="420"
-      src="https://github-readme-stats-donkshel.vercel.app/api/pin/?username=donkshel&repo=Fake_Real_News_Detection_Using_LSTM&theme=dark&hide_border=true"
+      src="https://github-readme-stats-donkshel.vercel.app/api/pin/?username=donkshel&repo=Fake_Real_News_Detection_LSTM&theme=dark&hide_border=true"
       style="transition: transform 0.2s ease;"
       onmouseover="this.style.transform='scale(1.03)'"
       onmouseout="this.style.transform='scale(1)'"
