@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm Sheldon Vwinah, a Data Science enthusiast with
 [<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=donkshel&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donkshel&layout=compact&theme=dark&hide_border=true"/> ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donkshel&show_icons=true&theme=dark&utcOffset=8)](https://github.com/donkshel)
 
 ## Portfolio Website
-<a href="https://donkshel.vercel.app/">VIEW MY PORTFOLIO</a>
+<a href="https://donshel.vercel.app/">VIEW MY PORTFOLIO</a>
 
 ## Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheldonkenyani@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheldon-vwinah-07a776324/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/donshel_02/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_)
