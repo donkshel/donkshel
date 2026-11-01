@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm Sheldon Vwinah, a Data Science enthusiast with
      [![](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)![](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)![](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/donkshel)
 
  ## 🎓 Courses 
- - ### In Progress
+ - ### GRADUATED 🎓 
    [![Static Badge](https://img.shields.io/badge/BSC%20DATA%20SCIENCE-🎓%20Degree-blue?style=flat&color=blue)]()
  
 
