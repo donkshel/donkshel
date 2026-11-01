@@ -4,7 +4,7 @@
 ### | Data Science Enthusiast | Data Analysis | Machine Learning | AI
 
 Hello!.......
-Welcome to my GitHub profile! I'm Sheldon Vwinah, a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science and Machine Learning, and I am excited to share my journey with you through my project portfolio.
+Welcome to my GitHub profile! I'm Sheldon Vwinah, a Data Science graduate with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science and Machine Learning, and I am excited to share my journey with you through my project portfolio.
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donkshel&theme=dark)](https://github.com/donkshel)
 
